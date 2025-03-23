@@ -4,7 +4,7 @@ import "./App.css";
 const App: React.FC = () => {
   return (
     <div className="App">
-      <h1>Hello, React is working!</h1>
+      <h1>User Management System</h1>
     </div>
   );
 };
